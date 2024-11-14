@@ -1,4 +1,4 @@
-lista = ["suca", "luca", "azzo"]
+lista = []
 
 
 def aggiunta():
